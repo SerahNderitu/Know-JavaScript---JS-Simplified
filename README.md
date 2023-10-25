@@ -48,3 +48,12 @@ You can use strings in various ways. For instance, you can check whether a strin
 A [JS index](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/index.js) is a number given to each character in order in a string. 
 
 We use a JS built-in method, indeOf to get the index of a character.
+
+## Operators
+
+Operators are used to perform a function in JavaScript. They operate on values.
+
+**Order of operations**
+Operations use BODMAS to operate on values in order. But if you want JS to start with addition before multiplication use a bracket () to group things together so that operations start at the bracket first.
+
+There are several operators but we will check just a few to get an idea. Check these operator examples to learn how they are structured. 
