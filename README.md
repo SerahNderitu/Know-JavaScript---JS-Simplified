@@ -77,5 +77,13 @@ Statements tell JavaScript to do something. Statements simply programming instru
 
 JavaScript statements consist of values, expressions, operators, keywords, and comments. JavaScript statements are executed, one by one, in the order they appear and separated by a semicolon.
 
+## Variables
+
+In JS, variables point to values/things. 
+
+**Declaring and assigning variables**
+
+Variables can be declared in the terms of; `` let ``, and ``const``. Variables should always be declared first before they are used. They should be identified with unique names.
+
 
 
