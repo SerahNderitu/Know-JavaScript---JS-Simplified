@@ -85,5 +85,12 @@ In JS, variables point to values/things.
 
 Variables can be declared in the terms of; `` let ``, and ``const``. Variables should always be declared first before they are used. They should be identified with unique names.
 
+**Let Variables**
+
+- They must declared before use
+- Once declared can not be redeclared
+- They have block scope(variables declared inside a { } block cannot be accessed from outside the block)
+- 
+
 
 
