@@ -9,7 +9,7 @@ let x = 5;
 <!-- constant variables-->
 
 
-const motivation = "Always on the go";
+const passion = "Always on the go";
 
 const school = ["Green B", "Beetex", "Creekwood"];
 
