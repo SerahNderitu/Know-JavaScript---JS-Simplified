@@ -17,4 +17,22 @@ To find elements from the DOM you can use the id(#) of the element, class(.), ta
 
 2) [Making changes on a web page](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/modifywebpage.js)
 
-JavaScript makes it easy to make changes to a web page. You can modify to match your specifications.
+JavaScript makes it easy to make changes to a web page. You can modify it to match your specifications.
+
+
+## Types of Data in JavaScript
+
+There are two types of data in JavaScript;
+
+a) Primitive types
+
+  - Strings
+  - Numbers
+  - Boolean
+  - Null
+  - Undefined
+
+b) Objects
+
+  - Document
+  - & friends
