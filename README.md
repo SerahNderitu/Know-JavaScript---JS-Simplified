@@ -100,7 +100,7 @@ Variables can be declared in the terms of; `` let ``, and ``const``. Variables s
 
 ## Arrays
 
-Arrays enable storing a collection of multiple items under a single variable. An array can be empty, hold a single item, or hold several items.
+[Arrays](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/array.js) enable storing a collection of multiple items under a single variable. An array can be empty, hold a single item, or hold several items.
 
 An array can hold mixed items, match, or hold any type in a single name.
 
