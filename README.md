@@ -98,4 +98,11 @@ Variables can be declared in the terms of; `` let ``, and ``const``. Variables s
 - They have block scope
 
 
+## Arrays
+
+Arrays enable storing a collection of multiple items under a single variable. An array can be empty, hold a single item, or hold several items.
+
+An array can hold mixed items, match, or hold any type in a single name.
+
+You can access the values from an array by referring to an index number.
 
