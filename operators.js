@@ -14,3 +14,19 @@
 
   1 == "1"  // true which is wrong. JS converts them to the same type, to look the same.
 
+<!-- examples unary operator. They have only one operand -->
+    -1, +1, !5
+
+<!--binary operators -->
+    5 + 4  // 9
+
+<!--ternary operators-->
+
+    let feeling = taste === "yummy" ? "happy": "sad";
+
+<!-- Is a shorthand way to write this code -->
+  if(taste === "yummy") {
+      mood = "happy";
+  }else{
+    mood = "sad";
+};
