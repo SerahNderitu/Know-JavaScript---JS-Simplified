@@ -67,19 +67,19 @@ There are several operators but we will check just a few to get an idea. Check t
 
 
 ## Expressions
-An expression resolves or evaluates to a value. An expression can consist of values, variables, and operators.
+An [expression](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/expression.js) resolves or evaluates to a value. An expression can consist of values, variables, and operators.
 
 Expressions ask JavaScript for a value.
 
 ## Statements
 
-Statements tell JavaScript to do something. Statements simply programming instructions to be executed by the computer.
+[Statements](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/statements.js) tell JavaScript to do something. Statements simply programming instructions to be executed by the computer.
 
 JavaScript statements consist of values, expressions, operators, keywords, and comments. JavaScript statements are executed, one by one, in the order they appear and separated by a semicolon.
 
 ## Variables
 
-In JS, variables point to values/things. 
+In JS, [variables](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/variables.js) point to values/things. 
 
 **Declaring and assigning variables**
 
@@ -90,7 +90,12 @@ Variables can be declared in the terms of; `` let ``, and ``const``. Variables s
 - They must declared before use
 - Once declared can not be redeclared
 - They have block scope(variables declared inside a { } block cannot be accessed from outside the block)
-- 
+
+**Const Variables**
+
+- Const declares and assigns a constant
+- Const variable can't be changed once declared
+- They have block scope
 
 
 
