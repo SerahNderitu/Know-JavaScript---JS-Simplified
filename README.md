@@ -1,2 +1,11 @@
 # Know-JavaScript---JS-Simplified
-This repo gives you an overview of what to expect in JavaScript. It's beginner friendly.
+JavaScript is a language of the web used to modify and add functionality to a website.
+
+## How to write JavaScript
+JavaScript code can be written in different ways but the most convenient one is to access the console on the browser. To do that, you  right-click on your browser and click on **inspect**.
+
+## JS DOM(Document Object Model)
+JavaScript creates an object that represents the document and all structures inside the document. The DOM can be used to;
+a) Finding elements in a web page
+To find elements from the DOM you can use the id(#) of the element, class(.), tag(e.g. p, h1), etc. For example
+- To pick individual elements by id from the DOM. The id is the special identifier of the code. It is denoted by ` # `. 
