@@ -45,4 +45,6 @@ You can use strings in various ways. For instance, you can check whether a strin
 
 ## Index in JS 
 
-A JS index is a number given to each character in order in a string. 
+A [JS index](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/index.js) is a number given to each character in order in a string. 
+
+We use a JS built-in method, indeOf to get the index of a character.
