@@ -15,5 +15,6 @@ To find elements from the DOM you can use the id(#) of the element, class(.), ta
 - To pick individual elements by a class name. The class is denoted by a dot(.).
 - To pick individual elements by a tag name. Examples of tags include; h1-h6, p, etc
 
-2) Making changes on a web page
+2) [Making changes on a web page](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/modifywebpage.js)
+
 JavaScript makes it easy to make changes to a web page. You can modify to match your specifications.
