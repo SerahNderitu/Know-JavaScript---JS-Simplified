@@ -53,7 +53,18 @@ We use a JS built-in method, indeOf to get the index of a character.
 
 Operators are used to perform a function in JavaScript. They operate on values.
 
+**Types of operators**
+
+  - Unary operator: Operate on one thing eg. !
+  - Binary operator: Operate on 2 things eg. 3 + 4
+  - Ternary operator: Operate on 3 different values. Is actually a quick way to write an if-else statement
+
 **Order of operations**
 [JS Operators](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/operators.js) use BODMAS to operate on values in order. But if you want JS to start with addition before multiplication use a bracket () to group things together so that operations start at the bracket first.
 
 There are several operators but we will check just a few to get an idea. Check these operator examples to learn how they are structured. Operators have two versions. The strict operator(===) and the loosey-goosey operator(==). Always use a strict operator version for accuracy.
+
+
+## Expressions
+An expression resolves or evaluates to a value.
+
