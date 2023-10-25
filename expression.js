@@ -1,4 +1,5 @@
 <!-- an expression that evaluates to a boolean-->
+   
    "codemaster".includes("code")  // true
 
 
@@ -7,4 +8,5 @@
    5 * 10   // 50
 
 <!-- string expression -->
+   
    "Birthday" + " " + "party"  // Birthday party
