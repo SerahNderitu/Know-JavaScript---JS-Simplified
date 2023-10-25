@@ -42,3 +42,7 @@ b) Objects
 In JS [strings](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/strings.js) are made of smaller units of text called characters.
 
 You can use strings in various ways. For instance, you can check whether a string contains some characters using an includes method, check the length of the string and so much more.
+
+## Index in JS 
+
+A JS index is a number given to each character in order in a string. 
