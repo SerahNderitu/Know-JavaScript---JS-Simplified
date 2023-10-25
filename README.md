@@ -36,3 +36,7 @@ b) Objects
 
   - Document
   - & friends
+
+## Strings in JS
+
+In JS strings are made of smaller unit of text called characters.
