@@ -12,5 +12,5 @@
 <!-- with loosey-goosey operator-->
   1 == 1  // true
 
-  1 == "1"  // true which is wrong
+  1 == "1"  // true which is wrong. JS converts them to the same type, to look the same.
 
