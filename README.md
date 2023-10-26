@@ -158,7 +158,7 @@ Since arrow functions are expressions, we can assign them to a variable.
 
 ## Scope in Variable
 
-In JavaScript, scope helps us to understand where variables are in play.
+In JavaScript, [scope](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/scope.js) helps us to understand where variables are in play.
 
 Variables help us to remember things we declared.
 
@@ -168,4 +168,18 @@ Examples of scopes include function and global scopes. The **Global scope** invo
 
 On the other hand, the **function scope** involves variables that are declared inside a function. Each function creates a new scope.
 
+## Evennts and Handlers
 
+Events in JavaScript are how we make a web page interactive. 
+
+Events are all the different users' actions that a web page can respond to. 
+
+The web browser fires events when certain things happen on the page.
+
+We can detect events with JS using an **event listener**
+
+The  ```.addEventListener()``` method lets us listen for events on a DOM element.
+
+**Event handlers** are a form of asynchronous programming. This means that it runs one thing at a time. You provide a function(event handler eg. click) that will be called not right away but whenever the event happens.
+
+If the event in the asynchronous has been completed then that event could be used to notify the caller about the result of an asynchronous function call.
