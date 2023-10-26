@@ -123,3 +123,15 @@ In JavaScript, we have a ``this`` keyword that refers to an object.
 The object being referred to depends on how this is being used/called, hence the ``this`` keyword refers to different objects depending on how it is used.
 
 The ``this`` keyword in a method lets us reference other properties on the object. If you are inside an object of some sort, the ``this`` will be that object, if not it will be the global object(window).
+
+## Parameters
+
+Parameters are placeholders/labels/inputs a function expects.
+
+Parameters are like pseudo-variables that call the values that are passed in as arguments. For example (x, y) are parameters.
+
+## Arguments
+
+Arguments are actual values passed to the function which are usually assigned to the parameter.
+
+Arguments are also the actual values a function is called with. For example (2,3) are aguments.
