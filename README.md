@@ -170,7 +170,7 @@ On the other hand, the **function scope** involves variables that are declared i
 
 ## Events and Handlers
 
-Events in JavaScript are how we make a web page interactive. 
+[Events](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/events.js) in JavaScript are how we make a web page interactive. 
 
 Events are all the different users' actions that a web page can respond to. 
 
@@ -222,4 +222,14 @@ If the event in the asynchronous has been completed then that event could be use
 - Scroll
 
 The **event.target** is the element the event fired on(which element was clicked).
+
+## Conditionals
+
+Conditional statements let us execute code under a certain condition. With conditions, we decide what to do for different decisions.
+
+**Examples of conditional statements:**
+
+- ``if `` is used to specify a block of code to be executed, if a specified condition is true
+- `` else`` is used to specify a block of code to be executed, if the same condition is false
+- ``else if`` is used to specify a new condition to test, if the first condition is false
 
