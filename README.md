@@ -134,4 +134,19 @@ Parameters are like pseudo-variables that call the values that are passed in as 
 
 Arguments are actual values passed to the function which are usually assigned to the parameter.
 
-Arguments are also the actual values a function is called with. For example (2,3) are aguments.
+Arguments are also the actual values a function is called with. For example (2,3) are arguments.
+
+## Functions
+
+In JS, a function is a block of code that is used to perform a task.
+
+Functions help us do things.
+
+Functions are executed when they are called.
+
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+
+The parentheses may include parameter/placeholder names separated by commas
+
+The code to be executed, by the function, is placed inside curly brackets: {}
+
