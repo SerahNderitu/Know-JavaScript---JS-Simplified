@@ -116,7 +116,7 @@ All JavaScript values, except primitives, are objects, thus almost everything in
 
 ## Methods
 
-Methods are functions inside an object. These are simply actions that can be performed on an object.
+[Methods](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/methods.js) are functions inside an object. These are simply actions that can be performed on an object.
 
 In JavaScript, we have a ``this`` keyword that refers to an object.
 
@@ -126,13 +126,13 @@ The ``this`` keyword in a method lets us reference other properties on the objec
 
 ## Parameters
 
-Parameters are placeholders/labels/inputs a function expects.
+[Parameters](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/parameters.js) are placeholders/labels/inputs a function expects.
 
 Parameters are like pseudo-variables that call the values that are passed in as arguments. For example (x, y) are parameters.
 
 ## Arguments
 
-Arguments are actual values passed to the function which are usually assigned to the parameter.
+[Arguments](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/arguments.js) are actual values passed to the function which are usually assigned to the parameter.
 
 Arguments are also the actual values a function is called with. For example (2,3) are arguments.
 
