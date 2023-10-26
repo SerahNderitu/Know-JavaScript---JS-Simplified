@@ -1,4 +1,5 @@
-<!-- object example-->
+// object example
+
 const student = {
   name: "Ryan",
   age: 10,
