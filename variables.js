@@ -1,12 +1,12 @@
-<!-- let variable examples-->
+// let variable examples
 
   let mood = "Happy";
 
-<!-- example2-->
+// example2
 let x = 5;
 
 
-<!-- constant variables-->
+// constant variables
 
 
 const passion = "Always on the go";
