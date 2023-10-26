@@ -168,7 +168,7 @@ Examples of scopes include function and global scopes. The **Global scope** invo
 
 On the other hand, the **function scope** involves variables that are declared inside a function. Each function creates a new scope.
 
-## Evennts and Handlers
+## Events and Handlers
 
 Events in JavaScript are how we make a web page interactive. 
 
@@ -190,7 +190,7 @@ b) The **handler function** that JS calls when that **event** is fired on the el
 
 If the event in the asynchronous has been completed then that event could be used to notify the caller about the result of an asynchronous function call.
 
-**Common DOM Events**
+## Common DOM Events
 
 **Mouse Events**
 - Click
