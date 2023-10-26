@@ -242,3 +242,9 @@ The map and filter methods let us process all the items in an array.
 [Map()](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/map.js) calls a function on each item in an array to create a new array.
 
 Map() does not change the original array.
+
+**Filter**
+
+Filter calls a true or false function on each item and creates a new array with only the items where the function returns true.
+
+Filter is useful when you are only interested in a subset of your data. You just filter out other elements you don't need and only be left with what need.
