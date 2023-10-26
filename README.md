@@ -182,7 +182,7 @@ The  ```.addEventListener()``` method lets us listen for events on a DOM element
 
 The **.addEventListener()** takes 2 parameters; 
 
-a) The name of the event to listen to eg. click.
+a) The name of the **event** to listen to eg. click.
 
 b) The **handler function** that JS calls when that **event** is fired on the element.
 
@@ -222,4 +222,4 @@ If the event in the asynchronous has been completed then that event could be use
 - Scroll
 
 The **event.target** is the element the event fired on(which element was clicked).
-what
+
