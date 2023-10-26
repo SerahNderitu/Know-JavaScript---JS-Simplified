@@ -108,7 +108,7 @@ You can access the values from an array by referring to an index number.
 
 ## Objects
 
-Objects collect multiple values together to describe more complex data. It's the same as how we point at different values using variables.
+[Objects](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/object.js) collect multiple values together to describe more complex data. It's the same as how we point at different values using variables.
 
 Objects let us point out related **values** using **properties** in the object.
 
