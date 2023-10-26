@@ -233,3 +233,12 @@ The **event.target** is the element the event fired on(which element was clicked
 - `` else`` is used to specify a block of code to be executed, if the same condition is false
 - ``else if`` is used to specify a new condition to test, if the first condition is false
 
+## Map and Filter
+
+The map and filter methods let us process all the items in an array.
+
+**Map**
+
+[Map()](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/map.js) calls a function on each item in an array to create a new array.
+
+Map() does not change the original array.
