@@ -140,7 +140,7 @@ Arguments are also the actual values a function is called with. For example (2,3
 
 In JS, a function is a block of code that is used to perform a task.
 
-Functions help us do things.
+[Functions](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/functions.js) help us do things.
 
 Functions are executed when they are called.
 
