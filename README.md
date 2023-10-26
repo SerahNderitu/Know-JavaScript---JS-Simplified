@@ -180,6 +180,45 @@ We can detect events with JS using an **event listener**
 
 The  ```.addEventListener()``` method lets us listen for events on a DOM element.
 
+The **.addEventListener()** takes 2 parameters; 
+
+a) The name of the event to listen to eg. click.
+
+b) The **handler function** that JS calls when that **event** is fired on the element.
+
 **Event handlers** are a form of asynchronous programming. This means that it runs one thing at a time. You provide a function(event handler eg. click) that will be called not right away but whenever the event happens.
 
 If the event in the asynchronous has been completed then that event could be used to notify the caller about the result of an asynchronous function call.
+
+**Common DOM Events**
+
+**Mouse Events**
+- Click
+- dblclick
+- Mouseover
+- Mouseout
+- Mouseleave
+- Mousedown
+- Mousemove
+- Mouseup
+
+**Keyboard Events**
+- Keypress
+- Keydown
+- Keyup
+
+**Form Events**
+- Focus
+- Blur
+- Submit
+- Change
+- Reset
+
+
+**Document/ Window Events**
+- Load
+- Resize
+- Unload
+- Scroll
+
+The **event.target** is the element the event fired on(which element was clicked).
