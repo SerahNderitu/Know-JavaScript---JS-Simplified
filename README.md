@@ -106,3 +106,10 @@ An array can hold mixed items, match, or hold any type in a single name.
 
 You can access the values from an array by referring to an index number.
 
+## Objects
+
+Objects collect multiple values together to describe more complex data. It's the same as how we point at different values using variables.
+
+Objects let us point out related **values** using **properties** in the object.
+
+All JavaScript values, except primitives, are objects, thus almost everything in JavaScript is an object.
