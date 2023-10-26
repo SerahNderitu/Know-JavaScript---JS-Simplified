@@ -1,4 +1,5 @@
-<!--in the example here, the move is the method/function inside an object-->
+// in the example here, the move is the method/function inside an object
+
 const car = {
   model: "Range Rover Sport",
   year: 2013,
