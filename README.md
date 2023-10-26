@@ -225,7 +225,7 @@ The **event.target** is the element the event fired on(which element was clicked
 
 ## Conditionals
 
-Conditional statements let us execute code under a certain condition. With conditions, we decide what to do for different decisions.
+[Conditional statements](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/conditionals.js) let us execute code under a certain condition. With conditions, we decide what to do for different decisions.
 
 **Examples of conditional statements:**
 
