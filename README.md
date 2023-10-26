@@ -113,3 +113,13 @@ You can access the values from an array by referring to an index number.
 Objects let us point out related **values** using **properties** in the object.
 
 All JavaScript values, except primitives, are objects, thus almost everything in JavaScript is an object.
+
+## Methods
+
+Methods are functions inside an object. These are simply actions that can be performed on an object.
+
+In JavaScript, we have a ``this`` keyword that refers to an object.
+
+The object being referred to depends on how this is being used/called, hence the ``this`` keyword refers to different objects depending on how it is used.
+
+The ``this`` keyword in a method lets us reference other properties on the object. If you are inside an object of some sort, the ``this`` will be that object, if not it will be the global object(window).
