@@ -150,3 +150,22 @@ The parentheses may include parameter/placeholder names separated by commas
 
 The code to be executed, by the function, is placed inside curly brackets: {}
 
+## Arrow Functions
+
+Arrow functions are a way to create small little functions.
+
+Since arrow functions are expressions, we can assign them to a variable.
+
+## Scope in Variable
+
+In JavaScript, scope helps us to understand where variables are in play.
+
+Variables help us to remember things we declared.
+
+In JS scope matters what variables we declare, it also matters where we declare them.
+
+Examples of scopes include function and global scopes. The **Global scope** involves variables declared outside a function. It is the widest scope.
+
+On the other hand, the **function scope** involves variables that are declared inside a function. Each function creates a new scope.
+
+
