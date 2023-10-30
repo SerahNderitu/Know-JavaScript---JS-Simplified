@@ -294,3 +294,9 @@ Asychronicity is the backbone of modern JavaScript.
 - Start a long-running operation by calling a function
 - Hvae that function start the operation and return immediately, so that our program can still be responsive to other events
 - Notify us with the result when it eventually complete.
+
+## setTimeOut
+
+**setTmeOut** is a built-in function. It gives a callback function similar to an event handler, i.e. only runs this after a user clicks where I attach the event listener to. Usually, JS code does things that are very quick. JS runs straight through the program synchronously(one thing after another). 
+
+JS can only do one task at a time(single-threaded). So, when we give JS a task that takes a while, it doesn't stop and wait. It adds the slow-running task to a **ToDoList** and continues running the program. The task runs sometime later asynchronously -- allowing the code to run in the background without blocking the execution of other code.
