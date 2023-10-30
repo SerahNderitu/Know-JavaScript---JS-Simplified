@@ -245,6 +245,29 @@ Map() does not change the original array.
 
 **Filter**
 
-Filter calls a true or false function on each item and creates a new array with only the items where the function returns true.
+[Filter](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/filter.js) calls a true or false function on each item and creates a new array with only the items where the function returns true.
 
 Filter is useful when you are only interested in a subset of your data. You just filter out other elements you don't need and only be left with what need.
+
+## Spread(. . .)
+
+Spread is a neat trick for iterating over arrays. Spread allows taking all the items in an array and spreading them around. 
+
+We can use spread to put all the items from one array inside another array. For example;
+
+```
+const oldBooks = ["Code", "Debugging Tips"];
+const newBooks = ["Know JS", "Basic CSS"];
+const allBooks = [...oldBooks, ...newBooks];  // ['Code', 'Debugging Tips', 'Know JS', 'Basic CSS']
+
+```
+
+Spread(...) can also be used to pass all the items from an array as arguments to a function or method. For example;
+
+```
+const frontEnd = ["HTML", "CSS", "JS"];
+const backEnd = ["Python", "Django", "Postgres"];
+frontEnd.push(...backEnd);
+console.log(...frontEnd);  // HTML CSS JS Python Django Postgres
+
+```
