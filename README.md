@@ -271,3 +271,26 @@ frontEnd.push(...backEnd);
 console.log(...frontEnd);  // HTML CSS JS Python Django Postgres
 
 ```
+
+## Data Fetching & Promises
+
+**Data Fetching**
+In JS, there are a lot of things that take time. For instance, fetching data using URLs(points to resources on the web). JavaScript tells API to fetch data and pull it into our program so we can work with it. For example, ``` fetch() ``` lets us use JS to load data from APIs. Note: When the website is down, the API might probably have gone offline or they changed how their url works.
+
+**Promises**
+In Js, a promise represent the eventual or failure of an asynchronous operation and its resulting value. A promise is something that comes into play when we are doing things that takes a long time or working with things that are hard to find.
+
+**State of Promises**
+- **Pending**: Still waiting for the value
+- **Fulfilled(resolved)**: Finally got the value, and all is done
+- **Rejected**: Sorry, couldn't get the value, and all is done
+
+Promises are **asynchrounous** in nature because they takes time to resolve. Asynchronous involves running the code in the background while being responsive to users interactions.
+
+Asychronicity is the backbone of modern JavaScript.
+
+**What Does Asynchrounous Do**
+
+- Start a long-running operation by calling a function
+- Hvae that function start the operation and return immediately, so that our program can still be responsive to other events
+- Notify us with the result when it eventually complete.
