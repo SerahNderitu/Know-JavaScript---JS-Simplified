@@ -251,7 +251,7 @@ Filter is useful when you are only interested in a subset of your data. You just
 
 ## Spread(. . .)
 
-Spread is a neat trick for iterating over arrays. Spread allows taking all the items in an array and spreading them around. 
+The [Spread operator](https://github.com/SerahNderitu/Know-JavaScript---JS-Simplified/blob/main/spread.js) is a neat trick for iterating over arrays. Spread allows taking all the items in an array and spreading them around. 
 
 We can use spread to put all the items from one array inside another array. For example;
 
